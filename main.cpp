@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "subraction.h" 
 // Function headers - to be implemented by contributors
 // int add(int a, int b);
 // int subtract(int a, int b);
@@ -13,6 +13,10 @@ int main() {
     // std::cout << "Subtraction: " << subtract(a, b) << std::endl;
     // std::cout << "Multiplication: " << multiply(a, b) << std::endl;
     // std::cout << "Division: " << divide(a, b) << std::endl;
+    std::cout << "Subtraction: " << subtract(a, b) << std::endl;    
+    
+
+
 
     return 0;
 }
