@@ -2,6 +2,6 @@
 #define DIVISION_H
 
 // Declaration of divide function
-double divide(int a, int b);
+int divide(int a, int b);
 
 #endif
