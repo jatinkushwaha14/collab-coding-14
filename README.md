@@ -5,11 +5,11 @@ Build a simple modular C++ calculator with addition, subtraction, multiplication
 
 ## Project Structure
 - main.cpp — driver code calling all functions
-- addition.h/cpp — addition module (Person 1)
-- subtraction.h/cpp — subtraction module (Person 2)
-- multiplication.h/cpp — multiplication module (Person 3)
-- division.h/cpp — division module (Person 4)
-- test.cpp — tests for all functions (Person 5)
+- addition.h/cpp — addition module 
+- subtraction.h/cpp — subtraction module
+- multiplication.h/cpp — multiplication module 
+- division.h/cpp — division module 
+- test.cpp — tests for all functions
 - README.md — this file
 - CONTRIBUTING.md — guidelines for contribution and workflow
 
