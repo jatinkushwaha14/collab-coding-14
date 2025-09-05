@@ -1,4 +1,5 @@
 #include <iostream>
+#include "addition.h"
 #include "subtraction.h" 
 #include "division.h"
 #include  "multiplication.h"
@@ -16,6 +17,7 @@ int main() {
     // std::cout << "Subtraction: " << subtract(a, b) << std::endl;
     // std::cout << "Multiplication: " << multiply(a, b) << std::endl;
     // std::cout << "Division: " << divide(a, b) << std::endl;
+    std::cout << "Addition: " << add(a, b) << std::endl;
     std::cout << "Addition: " << add(a, b) << std::endl;
     std::cout << "Subtraction: " << subtract(a, b) << std::endl;
     std::cout << "Division: " << divide(a, b) << std::endl;    
